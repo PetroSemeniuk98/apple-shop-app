@@ -1,0 +1,24 @@
+.card_item:hover {
+  border: 1px solid black;
+  box-shadow: 0 0 7px black;
+  transition: all 0.3s;
+}
+.card_item {
+  box-shadow: 0 0 3px black;
+}
+.btn-all {
+  width: 1.3rem;
+  height: 1.3rem;
+  border: 1px solid #6e6e6e;
+  margin-left: 10px;
+  background-color: silver;
+}
+.btn_one {
+  background-color: silver;
+}
+.btn_two {
+  background-color: black;
+}
+.btn_three {
+  background-color: white;
+}

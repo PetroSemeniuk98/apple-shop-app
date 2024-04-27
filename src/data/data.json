@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "model": "IPhone 15 Pro",
+    "memory": "128GB",
+    "color": "titanium",
+    "price": 1100.99,
+    "core": "A17",
+    "sizeScreen": "",
+    "imgUrl": "/imgs/IMG_0437.JPG",
+    "series": ""
+  },
+  {
+    "id": 2,
+    "model": "IPhone 14 Pro",
+    "memory": "256GB",
+    "color": "purple",
+    "price": 1120.49,
+    "core": "A17",
+    "sizeScreen": "",
+    "imgUrl": "/imgs/IMG_0438.JPG",
+    "series": ""
+  },
+  {
+    "id": 3,
+    "model": "MacBook Air",
+    "sizeScreen": "13",
+    "memory": "512GB",
+    "core": "M1",
+    "color": "grey",
+    "price": 2199.55,
+    "imgUrl": "/imgs/IMG_0443.JPG",
+    "series": ""
+  },
+  {
+    "id": 4,
+    "model": "MacBook Pro",
+    "sizeScreen": "16",
+    "memory": "512GB",
+    "core": "Intel CORE I9",
+    "color": "silver",
+    "price": 2199.55,
+    "imgUrl": "/imgs/IMG_0465.JPG",
+    "series": ""
+  },
+  {
+    "id": 5,
+    "model": "Apple Watch",
+    "series": "9",
+    "color": "midnight",
+    "price": 460.54,
+    "core": "I9",
+    "imgUrl": "/imgs/IMG_0444.JPG",
+    "sizeScreen": "",
+    "memory": ""
+  },
+  {
+    "id": 6,
+    "model": "Apple Watch",
+    "series": "Ultra 2",
+    "color": "titanium",
+    "price": 790,
+    "core": "I9",
+    "imgUrl": "/imgs/IMG_0445.WEBP",
+    "sizeScreen": "",
+    "memory": ""
+  },
+  {
+    "id": 7,
+    "model": "AirPods",
+    "series": "Pro",
+    "price": 219.99,
+    "imgUrl": "/imgs/IMG_0446.JPG",
+    "core": "",
+    "sizeScreen": "",
+    "memory": "",
+    "color": ""
+  },
+  {
+    "id": 8,
+    "model": "AirPods",
+    "series": "Max",
+    "price": 510.99,
+    "imgUrl": "/imgs/IMG_0447.JPG",
+    "sizeScreen": "",
+    "core": "",
+    "memory": "",
+    "color": ""
+  },
+  {
+    "id": 9,
+    "model": "Apple iPad",
+    "series": "Pro 11",
+    "memory": "128GB",
+    "color": "space grey",
+    "price": 835.99,
+    "imgUrl": "/imgs/IMG_0448.WEBP",
+    "core": "",
+    "sizeScreen": ""
+  },
+  {
+    "id": 10,
+    "model": "Apple Vision",
+    "series": "Pro",
+    "memory": "512GB",
+    "price": 3795.9,
+    "color": "silver",
+    "imgUrl": "/imgs/IMG_0441.jpeg",
+    "core": "",
+    "sizeScreen": ""
+  }
+]
